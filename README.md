@@ -2,7 +2,7 @@
 
 I used React, NodeJs and MongoDB
 
-after installing the dependencies run the app with the commands:
+After installing the dependencies run the app with the commands:
  In the both folders "npm start"
  
   https://taskslist.netlify.app/
